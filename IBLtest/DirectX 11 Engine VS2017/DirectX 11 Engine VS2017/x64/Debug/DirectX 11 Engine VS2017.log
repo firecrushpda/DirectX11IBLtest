@@ -1,0 +1,27 @@
+﻿  Graphics.cpp
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.h(83): warning C4305: “初始化”: 从“double”到“float”截断
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.cpp(145): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.cpp(146): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.cpp(201): warning C4267: “参数”: 从“size_t”转换到“UINT”，可能丢失数据
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.cpp(224): warning C4267: “参数”: 从“size_t”转换到“UINT”，可能丢失数据
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.cpp(247): warning C4267: “参数”: 从“size_t”转换到“UINT”，可能丢失数据
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.cpp(270): warning C4267: “参数”: 从“size_t”转换到“UINT”，可能丢失数据
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.cpp(293): warning C4267: “参数”: 从“size_t”转换到“UINT”，可能丢失数据
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.cpp(316): warning C4267: “参数”: 从“size_t”转换到“UINT”，可能丢失数据
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.cpp(339): warning C4267: “参数”: 从“size_t”转换到“UINT”，可能丢失数据
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.cpp(362): warning C4267: “参数”: 从“size_t”转换到“UINT”，可能丢失数据
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.cpp(385): warning C4267: “参数”: 从“size_t”转换到“UINT”，可能丢失数据
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.cpp(408): warning C4267: “参数”: 从“size_t”转换到“UINT”，可能丢失数据
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.cpp(789): warning C4305: “=”: 从“double”到“float”截断
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.cpp(815): warning C4244: “参数”: 从“size_t”转换到“float”，可能丢失数据
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.cpp(900): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.cpp(903): warning C4305: “参数”: 从“double”到“float”截断
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.cpp(1013): warning C4267: “参数”: 从“size_t”转换到“UINT”，可能丢失数据
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.cpp(1054): warning C4018: “<”: 有符号/无符号不匹配
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.cpp(1063): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.cpp(1064): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.cpp(1067): warning C4244: “=”: 从“unsigned int”转换到“FLOAT”，可能丢失数据
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.cpp(1068): warning C4244: “=”: 从“unsigned int”转换到“FLOAT”，可能丢失数据
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.cpp(1119): warning C4267: “参数”: 从“size_t”转换到“UINT”，可能丢失数据
+d:\directx11render\ibltest\directx 11 engine vs2017\directx 11 engine vs2017\graphics\graphics.cpp(1198): warning C4267: “参数”: 从“size_t”转换到“UINT”，可能丢失数据
+  DirectX 11 Engine VS2017.vcxproj -> D:\DirectX11Render\IBLtest\DirectX 11 Engine VS2017\x64\Debug\DirectX 11 Engine VS2017.exe
