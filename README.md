@@ -13,7 +13,7 @@ d :camera right
 
 mouse right down: rotate
 
-⚙️tool
+⚙️Tool
 
 o :open imgui option box
 
